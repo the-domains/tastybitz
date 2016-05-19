@@ -1,10 +1,10 @@
 ---
 description: An online print of things of interest.
-dateModified: '2016-05-19T07:29:30.137Z'
-datePublished: '2016-05-19T07:29:30.214Z'
+dateModified: '2016-05-19T07:29:32.944Z'
+datePublished: '2016-05-19T07:29:49.655Z'
 title: TastyBitz
 author: []
-starred: false
+starred: true
 sourcePath: _posts/2016-05-19-tastybitz.md
 inFeed: true
 hasPage: false
