@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[TastyBitz]]></title>
+        <description><![CDATA[TastyBitz]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Thu, 19 May 2016 06:12:10 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Spotify's Design Lead on Why Side Projects Should Be Stupid]]></title>
+            <description><![CDATA[<article><h1>Spotify's Design Lead on Why Side Projects Should Be Stupid</h1><p>Tobias van Schneider lives his life like one big side project. Today, he designs and builds new products for Spotify in New York, but he couldn't have predicted that when he dropped out of school at age 15 to work as an apprentice in a computer shop in Austria.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/4ed2e3065709ea706d3bf879a08399704e03b23c.jpg"></article>]]></description>
+            <link>http://firstround.com/review/Spotifys-Design-Lead-on-Why-Side-Projects-Should-be-Stupid/</link>
+            <guid isPermaLink="false">6be8e21f-e759-412c-be9a-a24b88927a81</guid>
+            <pubDate>Thu, 19 May 2016 06:11:47 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
