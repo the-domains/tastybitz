@@ -2,10 +2,17 @@
     <channel>
         <title><![CDATA[TastyBitz]]></title>
         <description><![CDATA[TastyBitz]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/tastybitz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 19 May 2016 06:12:10 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 19 May 2016 06:12:24 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/tastybitz/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[The Impossible Project's first instant camera has an app with full manual controls]]></title>
+            <description><![CDATA[<article><h1>The Impossible Project's first instant camera has an app with full manual controls</h1><p>The Impossible Project is best known for keeping Polaroid's type 600 instant film format alive even after it was abandoned by the long-time camera maker in 2008. The company also refurbishes old Polaroid type 600 cameras in order to resell them.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/5c48b764b8e712eab67051afd16854e8d8ce70f6.png"></article>]]></description>
+            <link>http://www.theverge.com/2016/4/11/11409572/impossible-project-instant-camera-app-polaroid-format</link>
+            <guid isPermaLink="false">e65701ca-25d8-48ae-98c4-29523b71420f</guid>
+            <pubDate>Thu, 19 May 2016 06:11:47 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Spotify's Design Lead on Why Side Projects Should Be Stupid]]></title>
             <description><![CDATA[<article><h1>Spotify's Design Lead on Why Side Projects Should Be Stupid</h1><p>Tobias van Schneider lives his life like one big side project. Today, he designs and builds new products for Spotify in New York, but he couldn't have predicted that when he dropped out of school at age 15 to work as an apprentice in a computer shop in Austria.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/4ed2e3065709ea706d3bf879a08399704e03b23c.jpg"></article>]]></description>
