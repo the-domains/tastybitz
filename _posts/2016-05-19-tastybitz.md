@@ -1,7 +1,7 @@
 ---
-description: An online print of things of interest.
-dateModified: '2016-05-19T13:38:13.430Z'
-datePublished: '2016-05-19T13:38:32.853Z'
+description: Or things of interest
+dateModified: '2016-05-19T13:41:28.291Z'
+datePublished: '2016-05-19T14:35:00.985Z'
 title: TastyBitz
 author: []
 sourcePath: _posts/2016-05-19-tastybitz.md
@@ -12,9 +12,7 @@ inNav: false
 _type: MediaObject
 
 ---
-<article style=""><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/c867ac84b318c62a2b02074d2230d166fcc2c00b.jpg" /><h1>TastyBitz</h1><p>as in</p></article>
-
-An online print of things of interest.
+<article style=""><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/0fcf979aad22a3be7b99bec4500c71a2b73fe20b.jpg" /><h1>TastyBitz</h1><p>Or things of interest</p></article>
 
 > Lose your mind and come to your senses.
 
