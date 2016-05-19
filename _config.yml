@@ -1,19 +1,7 @@
+layout_spectrum: 0.8957447
 typography_spectrum: 0.8382978
-color:
-  brandStrength: 0.6319149
-  lightness: 0.5234042
-  saturation: 0.8212766
-  rhythmicContrast: 0.1513898
-  brandColors:
-    - '#F2385A'
-    - '#F5A503'
-    - '#E9F1DF'
-    - '#4AD9D9'
-    - '#36B1BF'
-layout_spectrum: 0.2018819428049028
-logo: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com/18222de8-7e49-4400-af3d-190e03fb37c0.png'
 name: TastyBitz
-favicon: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com/b47a850c-b7d0-40f4-ab34-f03fe7f68559.ico'
+title: 'Lose your mind and come to your senses!'
 collections:
   - index:
       navigable: true
@@ -26,4 +14,15 @@ collections:
       number: 10
     permalink:
       path: '/:title/'
-title: 'Lose your mind and come to your senses!'
+color:
+  brandStrength: 0.6319149
+  lightness: 0.5234042
+  saturation: 0.7127659
+  rhythmicContrast: 0.1513898
+  brandColors:
+    - '#F2385A'
+    - '#F5A503'
+    - '#E9F1DF'
+    - '#4AD9D9'
+    - '#36B1BF'
+logo: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com/18222de8-7e49-4400-af3d-190e03fb37c0.png'
