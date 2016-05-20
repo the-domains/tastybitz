@@ -4,8 +4,15 @@
         <description><![CDATA[Lose your mind and come to your senses!]]></description>
         <link>https://thegrid.ai/tastybitz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 20 May 2016 11:25:32 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 20 May 2016 11:25:35 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/tastybitz/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Vitalic - Your Disco Song (Official)]]></title>
+            <description><![CDATA[<article><h1>Vitalic - Your Disco Song (Official)</h1><p>Uploaded by vitalicofficial on 2009-07-06.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/7ee9f62762e7eebba9ea0bf95a967e0f0e9c9aa6.jpg"></article>]]></description>
+            <link>https://www.youtube.com/watch?v=ccT7yslqOdA</link>
+            <guid isPermaLink="false">cec9fdcd-5f4d-4d4e-b265-59491a38644c</guid>
+            <pubDate>Fri, 20 May 2016 11:25:27 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Vitalic - Poney Part 1]]></title>
             <description><![CDATA[<article><h1>Vitalic - Poney Part 1</h1><p>directed by Pleix</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/4ce7a5d1fc201df5860198a461f9c8223569bfbd.jpg"></article>]]></description>
@@ -67,13 +74,6 @@
             <link>http://www.krksys.com/krk-studio-monitor-speakers/vxt/vxt6.html</link>
             <guid isPermaLink="false">a004e925-04da-4eff-aff6-3f23268a3264</guid>
             <pubDate>Fri, 20 May 2016 06:28:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The Art Of Uncharted 4]]></title>
-            <description><![CDATA[<article><h1>The Art Of Uncharted 4</h1><p>Uncharted 4 is one of the prettiest video games ever made. Here is a look at some of the art that made this possible. http://kotaku.com/a-technical-lo... Uncharted 4 is, without a doubt, the best-looking video game I've ever played. Here's an in-depth...</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/16e7d52b55ec8a9598a59e040e0f72eb1b9938fb.gif"></article>]]></description>
-            <link>http://kotaku.com/the-art-of-uncharted-4-1777213424</link>
-            <guid isPermaLink="false">75c284f0-7377-4bf2-8139-ffcdbe1b3fcb</guid>
-            <pubDate>Fri, 20 May 2016 03:38:10 GMT</pubDate>
         </item>
     </channel>
 </rss>
