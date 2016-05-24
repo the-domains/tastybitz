@@ -1,4 +1,4 @@
-layout_spectrum: 0.9091169405728579
+layout_spectrum: 0.7318424896802753
 typography_spectrum: 0.8382978
 name: TastyBitz
 title: 'Lose your mind and come to your senses!'
@@ -15,14 +15,14 @@ collections:
     permalink:
       path: '/:title/'
 color:
-  brandStrength: 0.15441971295513213
-  saturation: 0.18754216167144477
+  brandStrength: 0.147300295997411
+  saturation: 0.723353328416124
   brandColors:
-    - '#1A1F2B'
-    - '#30395C'
-    - '#4A6491'
-    - '#85A5CC'
-    - '#D0E4F2'
-  lightness: 0.4236960706766695
-  rhythmicContrast: 0.2918015862815082
+    - '#E1E6FA'
+    - '#C4D7ED'
+    - '#ABC8E2'
+    - '#375D81'
+    - '#183152'
+  lightness: 0.8957782352808863
+  rhythmicContrast: 0.11883944366127253
 logo: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com/18222de8-7e49-4400-af3d-190e03fb37c0.png'
