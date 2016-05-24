@@ -4,8 +4,15 @@
         <description><![CDATA[Lose your mind and come to your senses!]]></description>
         <link>https://thegrid.ai/tastybitz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 24 May 2016 15:37:18 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 24 May 2016 15:37:59 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/tastybitz/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[A Prank Time - [JaimeR]]]></title>
+            <description><![CDATA[<article><h1>A Prank Time - [JaimeR]</h1><p>Jaime Rodriguez</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/6de0027d8e9de2b6f539cb11c1b53881933bb671.jpg"></article>]]></description>
+            <link>https://youtu.be/ZBvbNs7WSII</link>
+            <guid isPermaLink="false">6c11a108-4791-4373-935d-596c638abff8</guid>
+            <pubDate>Tue, 24 May 2016 15:37:54 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<article><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/3c47479b-f995-448b-8a6c-279ce0729245.jpg"></article>]]></description>
@@ -67,13 +74,6 @@
             <link>http://www.vadc-photo.com/</link>
             <guid isPermaLink="false">7371b4e4-d051-4a89-84cb-579fcf883bc4</guid>
             <pubDate>Fri, 20 May 2016 10:38:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[TriAmp Mark 3 - Hughes & Kettner]]></title>
-            <description><![CDATA[<article><h1>TriAmp Mark 3 - Hughes & Kettner</h1><p>Each of TriAmp Mark 3's six independent, action-packed channels represents a whole era of tone, and each of these six eras can be routed to three independent tube power amps. But there's more. You can also combine two or even all three of the power amps, merge different power amp characters, and play TriAmp Mark 3 with up to 150 watts of sheer tube power.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ebb5c0480d74111e0118f80dabaa331f3112de27.jpg"></article>]]></description>
-            <link>http://hughes-and-kettner.com/products/triamp/triamp-mark-3/</link>
-            <guid isPermaLink="false">620d38d3-4837-46ae-a2e8-6e28368d8f88</guid>
-            <pubDate>Fri, 20 May 2016 10:38:16 GMT</pubDate>
         </item>
     </channel>
 </rss>
